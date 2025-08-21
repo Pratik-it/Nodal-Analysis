@@ -1,7 +1,7 @@
 # Nodal-Analysis
 
 ## Project Overview
-This project demonstrates nodal analysis, a fundamental technique in petroleum engineering used to optimize oil and gas production systems. The analysis integrates Inflow Performance Relationship (IPR) and Tubing Performance Relationship (TPR) curves to determine the optimal operating point for a well under different tubing sizes.
+This project demonstrates the visualization of Inflow Performance Relationship (IPR) and Tubing Performance Relationship (TPR) curves, which are fundamental concepts in petroleum engineering for analyzing well production performance.
 ## Key Features
 - IPR curve generation using field data from PetroWiki
 - TPR analysis for three different tubing sizes (1.90 in, 2.375 in, 2.875 in)
